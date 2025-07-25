@@ -26,7 +26,7 @@ Built with 💖 by [Design Synchrony](https://designsynchrony.com.ng) & [abreel]
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/telegram-chat-cleaner.git
+git clone https://github.com/Designsynchronyorg/Telegram-Cleanup.git
 cd telegram-chat-cleaner
 
 pip install -r requirements.txt
